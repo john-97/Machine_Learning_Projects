@@ -1,5 +1,5 @@
 # Machine_Learning_Projects
-Tensorflow based Personal Projects
+Tensorflow | Personal Projects
 
 ### Projects
 ---
